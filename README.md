@@ -1,6 +1,6 @@
 # Java-Week3-ToDo-List
 
-Author: Mbuthia Peter
+Author: Mbuthia Peter Irungu
 
 Official repo for the "To Do List" project using Java, Spark, Handlebars etc for week 3 of java unit.
 
